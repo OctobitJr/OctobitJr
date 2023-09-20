@@ -22,21 +22,13 @@ Aqui na OctobirJr, acreditamos que o aprendizado é a chave para o sucesso. Por 
 
 Se você tem alguma pergunta, ideia ou apenas quer bater um papo, sinta-se à vontade para entrar em contato:
 
-- 📧 Email: octobirjunior@gmail.com
+- 📧 Email: octobitjunior@gmail.com
 - 🌐 Site: In progress ⏳
 - 🐦 Instagram: [@OctobirJr](https://twitter.com/OctobirJr)
 - 📊 Linkedin: [@OctobitJr](https://linkedin.com/OctobitJr)
 
 ## 👥 Membros Destacados
 
-- [@SeuNome](https://github.com/SeuNome) - CEO e Fundador
-- [@NomeColega1](https://github.com/NomeColega1) - Desenvolvedor Sênior
-- [@NomeColega2](https://github.com/NomeColega2) - Designer Criativo
-
-## 🌍 Localização
-
-Estamos localizados em Ribeirão Preto, São Paulo, Brasil. Se você estiver na região, não deixe de nos visitar!
-
-![Mapa](https://maps.app.goo.gl/DJzwzcuTpTtk8jpA6)
+- [Maurício Calil Manfrim Lucera](https://github.com/maucalil) - Diretor de Projetos
 
 Agradecemos por nos visitar e esperamos que você se junte à nossa jornada tecnológica! 🎉
