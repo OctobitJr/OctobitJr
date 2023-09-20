@@ -1,4 +1,4 @@
-# Bem-vindo ao OctobirJr! 🚀
+ # Bem-vindo ao OctobirJr! 🚀
 
 Olá, viajante do código! 👋 Somos a OctobirJr, a empresa júnior de Ciências da Computação da USP de Ribeirão Preto, e estamos felizes em tê-lo aqui.
 
@@ -37,6 +37,6 @@ Se você tem alguma pergunta, ideia ou apenas quer bater um papo, sinta-se à vo
 
 Estamos localizados em Ribeirão Preto, São Paulo, Brasil. Se você estiver na região, não deixe de nos visitar!
 
-![Mapa]([https://maps.google.com/maps?q=ribeir%C3%A3o%20preto&z=10&output=embed](https://maps.app.goo.gl/DJzwzcuTpTtk8jpA6))
+![Mapa](https://maps.app.goo.gl/DJzwzcuTpTtk8jpA6)
 
 Agradecemos por nos visitar e esperamos que você se junte à nossa jornada tecnológica! 🎉
